@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "user": "postgres",
+    "pw": "admin123",
+    "db": "uitest_db",
+    "port": "5432"
+}
